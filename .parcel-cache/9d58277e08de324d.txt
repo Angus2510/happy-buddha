@@ -45,7 +45,7 @@
 136C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\README.md133470329324410311 0
 143C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\lz4.c133470329330796387 0
 132C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\posthtml-render\dist133470329323238100 1
-103C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist133491836726795654 1
+103C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist133491976776276793 1
 173C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133470329321577792 1
 139C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\url\to-json.js133473763620878520 0
 133C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\csso\dist\csso.esm.js133470329334251356 0
@@ -124,7 +124,7 @@
 153C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\customevent.js133470329340736720 0
 166C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\csso\node_modules\css-tree\cjs\syntax\function\var.cjs133470329337263417 0
 186C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133470329322163488 0
-119C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133491836719701468 0
+119C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\controller.js133491969855071521 0
 161C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133470329334671872 0
 148C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\fontcolor.js133473763588816970 0
 143C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\KN.js133470329345722941 0
@@ -243,11 +243,11 @@
 134C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\package.json133470329319879497 0
 143C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\dependencies\lz4\lib\lz4.h133470329336858698 0
 144C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\symbol\dispose.js133473763569253837 0
-119C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133491827989262110 0
+119C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\View.js133491976774644661 0
 156C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\typed-array-constructor.js133473763624766147 0
 165C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\object\get-own-property-descriptors.js133473763593678813 0
 148C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\join.js133473763603186185 0
-114C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\model.js133491827966617612 0
+114C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\model.js133491969832821815 0
 136C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\README.md133470329328715397 0
 129C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@lezer\lr\LICENSE133470329319357262 0
 151C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\string\virtual\strike.js133473763618855791 0
@@ -269,7 +269,7 @@
 159C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.uint8-array.to-base64.js133473763580629528 0
 137C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\rust\package.json133470329322185411 0
 129C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\timsort\README.md133470329320492678 0
-129C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js133491835142099286 0
+129C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\paginationView.js133491960880956693 0
 148C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\cleanupNumericValues.js133470329331564167 0
 138C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\split.js133473763618428676 0
 187C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133470329323015807 0
@@ -288,7 +288,7 @@
 128C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb\src\dbi.cpp133470329335804329 0
 183C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDC.js133470329326572906 0
 135C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\csso\cjs\replace\atrule133470329330106987 1
-125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133488535681206812 0
+125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js133491973101516414 0
 129C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\package.json133470329330130394 0
 167C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\lib\esm\pseudo-selectors\subselects.d.ts.map133470329333698726 0
 130C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\chrome-trace-event133470329323697105 1
@@ -830,7 +830,7 @@
 200C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133470329329219845 0
 132C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\weak-lru-cache\tests133470329323073825 1
 169C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts.map133470329324961660 0
-122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133491835145812763 0
+122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\icons.21bad73c.svg133491972780631028 0
 144C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-js\lib\index.js133470329327059530 0
 126C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\type-fest\ts41133470329330893358 1
 141C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\nullthrows\nullthrows.js.flow133470329322070713 0
@@ -1652,7 +1652,7 @@
 140C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\for-each.js133473763589565351 0
 179C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133470329333499310 0
 141C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\cjs\walker\index.cjs133470329334699038 0
-126C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133491835145916685 0
+126C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css.map133491972777321449 0
 144C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\source-node.js133470329326387121 0
 137C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\source-map-js\lib\util.js133470329326741692 0
 144C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\lib\FeedHandler.d.ts133470329327025678 0
@@ -5197,7 +5197,7 @@
 145C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\error\to-string.js133473763622902816 0
 141C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\array\find-last.js133473763585945842 0
 155C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\dom-exception\constructor.js133473763566458535 0
-114C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.html133491835146226474 0
+114C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.html133491972779053784 0
 151C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\dom-collections\index.js133473763599392288 0
 132C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-raw133470329321536930 1
 148C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\date\to-iso-string.js133473763620807995 0
@@ -6260,7 +6260,7 @@
 138C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\clz32.js133473763564609926 0
 150C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\typed-array\includes.js133473763596726535 0
 155C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\reflect\delete-metadata.js133473763568811429 0
-127C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\happy-logo.2003de72.png133491835145876798 0
+127C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\happy-logo.2003de72.png133491972777142551 0
 158C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-text-spacing.js133470329340199566 0
 137C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\cosh.js133473763567008621 0
 144C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\full\math\deg-per-rad.js133473763568622401 0
@@ -9621,13 +9621,13 @@
 121C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo133470329352981151 0
 125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.cmd133470329352981151 0
 125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\svgo.ps1133470329352981151 0
-124C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133491835145876798 0
-122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133491835145802669 0
+124C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\favicon.8b2f57bf.png133491972777622480 0
+122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\icons.dfd7a6db.svg133491972779042144 0
 121C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js133473751764410481 0
 125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.62406edb.js.map133473751764608734 0
-121C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133491836726727997 0
-125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133491836726782703 0
-122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133491835145812763 0
+121C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js133491976776196868 0
+125C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.e37f48ea.js.map133491976776251487 0
+122C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\index.f7626f62.css133491972777142551 0
 121C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\logo.726d37a8.png133470330458986421 0
 123C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js133473751764410481 0
 127C:\Users\angus\Desktop\Udemy\javascript udemy\complete-javascript-course-master\18-forkify\starter\dist\starter.3464ddca.js.map133473751764608734 0
